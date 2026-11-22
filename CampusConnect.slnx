@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="src/API/CampusConnect.Web.API/CampusConnect.Web.API.csproj" />
+  </Folder>
+  <Folder Name="/Business/">
+    <Project Path="src/Business/CampusConnect.Facade/CampusConnect.Facade.csproj" />
+  </Folder>
+  <Folder Name="/Library/">
+    <Project Path="src/Library/CampusConnect.DataAccess/CampusConnect.DataAccess.csproj" />
+    <Project Path="src/Library/CampusConnect.Entities/CampusConnect.Entities.csproj" />
+    <Project Path="src/Library/CampusConnect.Framework/CampusConnect.Framework.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="src/Presentation/CampusConnect.Web.UI/CampusConnect.Web.UI.csproj" />
+  </Folder>
+</Solution>

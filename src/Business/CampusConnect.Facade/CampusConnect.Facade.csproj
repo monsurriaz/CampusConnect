@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Library\CampusConnect.Framework\CampusConnect.Framework.csproj" />
+    <ProjectReference Include="..\..\Library\CampusConnect.Entities\CampusConnect.Entities.csproj" />
+    <ProjectReference Include="..\..\Library\CampusConnect.DataAccess\CampusConnect.DataAccess.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
