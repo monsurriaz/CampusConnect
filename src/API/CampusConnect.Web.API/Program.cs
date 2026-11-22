@@ -1,4 +1,6 @@
+using CampusConnect.DataAccess;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDataAccess(builder.Configuration);
 
 // Add services to the container.
 

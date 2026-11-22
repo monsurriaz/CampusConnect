@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <ItemGroup>
     <ProjectReference Include="..\..\Library\CampusConnect.Framework\CampusConnect.Framework.csproj" />
@@ -10,6 +10,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a7729ff7-73b8-45f3-83c5-dc947b7d1f5d</UserSecretsId>
   </PropertyGroup>
 
 </Project>
